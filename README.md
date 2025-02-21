@@ -16,4 +16,9 @@ where as rest 100 columns are day wise data.
 
 this data contains confirmed covid-19 cases from 22th jan 2020 to 30th april 2020
 -April -> 30 march -> 31 february -> 29 january -> 10
-, 100 days of data avaliable
+, 100 days of data avaliable.
+
+### Analysis Report Link-  
+https://anaconda.cloud/share/notebooks/8c28ced1-b4d3-42d4-a08d-6ce0f9bc71be/preview
+
+In this Link All the codes, charts and Analysis Report Are Avaliable.
